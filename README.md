@@ -2,7 +2,7 @@
 
 This repository includes the main codes needed to run the work presented at "Alkhodari et al. (2022) Circadian assessment of heart failure using explainable deep learning and novel multi-parameter polar images. Computer Methods and Programs in Biomedicine. https://doi.org/XXX".
 
-The "methodology" includes the following,
+The "methodology.m" includes the following,
 1) Load ECG and clinical information in .m and .csv, respectively.
 2) Extract HRV using the Pan-Tompkins algorithm, filter HRV, extract hourly HRV, and adjust starting hour to 00:00.
 3) Extract HRV features in time, frequency, non-linear, and fragmentation.
