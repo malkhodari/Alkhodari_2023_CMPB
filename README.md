@@ -1,6 +1,6 @@
 # Circadian assessment of heart failure using explainable deep learning and novel multi-parameter polar images
 
-This repository includes the main codes needed to run the work presented at "Alkhodari et al. (2022) Circadian assessment of heart failure using explainable deep learning and novel multi-parameter polar images. Computer Methods and Programs in Biomedicine. https://doi.org/XXX".
+This repository includes the main codes needed to run the work presented at "Alkhodari et al. (2024) Circadian assessment of heart failure using explainable deep learning and novel multi-parameter polar images. Computer Methods and Programs in Biomedicine. https://doi.org/10.1016/j.cmpb.2024.108107".
 
 The "methodology.m" includes the following,
 1) Load ECG and clinical information in .m and .csv, respectively.
